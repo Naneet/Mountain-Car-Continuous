@@ -39,10 +39,6 @@ This project uses:
 ### Model
 - **Actor:** outputs mean of a Gaussian policy
 - **Critic:** estimates state value `V(s)`
-- **Action distribution:**  
-  \[
-  a \sim \mathcal{N}(\mu(s), \sigma)
-  \]
 
 ---
 
