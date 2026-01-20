@@ -49,4 +49,5 @@ After training, the agent consistently reaches the goal with stable performance:
 - **Average episode return:** ~93–94
 - **Behavior:** backward → forward momentum strategy
 - **Stability:** low variance across episodes
+
 ![PPO solving MountainCarContinuous](rl-video-episode-0.gif)
